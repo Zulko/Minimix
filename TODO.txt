@@ -1,0 +1,2 @@
+Add user-friendly installation (user.py)
+Add examples
