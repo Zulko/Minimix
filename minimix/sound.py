@@ -6,6 +6,17 @@ import wave
 import scipy.io.wavfile as wf
 import os
 
+def toWav(wavFileName, outputName=None):
+	 
+	 if outputName is None:
+		 fileName, fileExtension = os.path.splitext(wavFileName)
+		 outputName = fileName + '.wav'
+		 
+	 os.system('avconv -i %s %s'%(wavFileName,outputName))
+	 
+	 return outputName
+
+
 def shift_wav(wavfile,output,shifts,verbose=False):
     """
     Makes new sounds by shifting the pitch of a sound.
