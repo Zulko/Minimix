@@ -1,0 +1,45 @@
+left ctrl, ./sounds/../soundfonts/bowl/bowl00.wav
+left shift, ./sounds/../soundfonts/bowl/bowl01.wav
+<, ./sounds/../soundfonts/bowl/bowl02.wav
+w, ./sounds/../soundfonts/bowl/bowl03.wav
+x, ./sounds/../soundfonts/bowl/bowl04.wav
+c, ./sounds/../soundfonts/bowl/bowl05.wav
+v, ./sounds/../soundfonts/bowl/bowl06.wav
+b, ./sounds/../soundfonts/bowl/bowl07.wav
+q, ./sounds/../soundfonts/bowl/bowl08.wav
+s, ./sounds/../soundfonts/bowl/bowl09.wav
+d, ./sounds/../soundfonts/bowl/bowl10.wav
+f, ./sounds/../soundfonts/bowl/bowl11.wav
+g, ./sounds/../soundfonts/bowl/bowl12.wav
+a, ./sounds/../soundfonts/bowl/bowl13.wav
+z, ./sounds/../soundfonts/bowl/bowl14.wav
+e, ./sounds/../soundfonts/bowl/bowl15.wav
+r, ./sounds/../soundfonts/bowl/bowl16.wav
+t, ./sounds/../soundfonts/bowl/bowl17.wav
+&, ./sounds/../soundfonts/bowl/bowl18.wav
+world 73, ./sounds/../soundfonts/bowl/bowl19.wav
+"""", ./sounds/../soundfonts/bowl/bowl20.wav
+', ./sounds/../soundfonts/bowl/bowl21.wav
+(, ./sounds/../soundfonts/bowl/bowl22.wav
+-, ./sounds/../soundfonts/bowl/bowl23.wav
+world 72, ./sounds/../soundfonts/bowl/bowl24.wav
+_, ./sounds/../soundfonts/bowl/bowl25.wav
+world 71, ./sounds/../soundfonts/bowl/bowl26.wav
+world 64, ./sounds/../soundfonts/bowl/bowl27.wav
+y, ./sounds/../soundfonts/bowl/bowl28.wav
+u, ./sounds/../soundfonts/bowl/bowl29.wav
+i, ./sounds/../soundfonts/bowl/bowl30.wav
+o, ./sounds/../soundfonts/bowl/bowl31.wav
+p, ./sounds/../soundfonts/bowl/bowl32.wav
+h, ./sounds/../soundfonts/bowl/bowl33.wav
+j, ./sounds/../soundfonts/bowl/bowl34.wav
+k, ./sounds/../soundfonts/bowl/bowl35.wav
+l, ./sounds/../soundfonts/bowl/bowl36.wav
+m, ./sounds/../soundfonts/bowl/bowl37.wav
+n, ./sounds/../soundfonts/bowl/bowl38.wav
+",", ./sounds/../soundfonts/bowl/bowl39.wav
+;, ./sounds/../soundfonts/bowl/bowl40.wav
+:, ./sounds/../soundfonts/bowl/bowl41.wav
+!, ./sounds/../soundfonts/bowl/bowl42.wav
+right shift, ./sounds/../soundfonts/bowl/bowl43.wav
+right ctrl, ./sounds/../soundfonts/bowl/bowl44.wav
