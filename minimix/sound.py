@@ -2,9 +2,13 @@
 # Helper functions to process sounds for minimix
 #
 
-import wave
-import scipy.io.wavfile as wf
 import os
+
+try:
+	import scipy.io.wavfile as wf
+except:
+	print "Warning : Scipy not detected, you can't use function \
+		   split_wav."
 
 def toWav(wavFileName, outputName=None):
 	 
@@ -52,6 +56,7 @@ def shift_wav(wavfile,output,shifts,verbose=False):
 def split_wav(wavfile,output,blanksSize = 2000):
     """
     Separates different sounds contained in a wav file.
+    Requires the Python package Scipy installed
     
     Args:
         wavfile (str): name of the file containing the original sound

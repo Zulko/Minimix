@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 from minimix import minimix
+raw_input('')
 from minimix.quick import *
 
 """
